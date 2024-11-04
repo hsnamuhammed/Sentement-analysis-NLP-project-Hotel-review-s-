@@ -14,7 +14,7 @@ TF-IDF (Term Frequency-Inverse Document Frequency) vectors are generated for fre
 
 The reviews are labeled based on sentiment polarity (positive or negative) and split into training and testing sets.
 A Random Forest Classifier is trained on the feature-engineered dataset to classify reviews as positive or negative.
-Model performance is evaluated using ROC-AUC to assess the classifier's ability to distinguish between positive and negative reviews.
+Model performance is evaluated using ROC-AUC to assess the classifier's ability to distinguish between positive and negative reviews
 ## Visualization
 
 Distribution plots and ROC curves are generated to visualize sentiment distributions and evaluate model performance.
